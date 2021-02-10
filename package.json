@@ -1,0 +1,25 @@
+{
+  "name": "flex-box-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tore88/flex-box-ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tore88/flex-box-ex/issues"
+  },
+  "homepage": "https://github.com/tore88/flex-box-ex#readme",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
